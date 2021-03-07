@@ -18,9 +18,7 @@
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-## <li>Onboarding Screen</li>
-<img src="images/Onboarding-Student.jpeg" width="250" height="450">
-<img src="images/Onboarding-Teacher.jpeg" width="250" height="450">
+## <li>Onboarding Screens</li>
 <table>
   <tr>
     <td>Onboarding Screen - Student</td>
