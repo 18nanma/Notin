@@ -12,33 +12,39 @@
 <li>Room(local database)</li>
 
 ### Screen Shots
-## <li>Splash Screen</li>
-<img src="images/SplashScreen.jpeg" width="250" height="450">
 
-------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------
-
-## <li>Onboarding Screens</li>
 <table>
   <tr>
-    <td>Onboarding Screen - Student</td>
-     <td>Onboarding Screen - Teacher</td>
+    <td>Splash Screen</td>
+     <td>Onboarding Screen - Student</td>
+    <td>Onboarding Screen - Teacher</td>
+    <td>Login Screen</td>
   </tr>
   <tr>
+    <td><img src="images/SplashScreen.jpeg" width="250" height="450"></td>
     <td><img src="images/Onboarding-Student.jpeg" width="250" height="450"></td>
     <td><img src="images/Onboarding-Teacher.jpeg" width="250" height="450"></td>
+    <td><img src="images/LoginScreen.jpeg" width="250" height="450"></td>
   </tr>
  </table>
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-## <li>Login Screen</li>
-<img src="images/LoginScreen.jpeg" width="250" height="450">
-
-------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------
-
+<table>
+  <tr>
+    <td>Splash Screen</td>
+     <td>Onboarding Screen - Student</td>
+    <td>Onboarding Screen - Teacher</td>
+    <td>Login Screen</td>
+  </tr>
+  <tr>
+    <td><img src="images/SplashScreen.jpeg" width="250" height="450"></td>
+    <td><img src="images/Onboarding-Student.jpeg" width="250" height="450"></td>
+    <td><img src="images/Onboarding-Teacher.jpeg" width="250" height="450"></td>
+    <td><img src="images/LoginScreen.jpeg" width="250" height="450"></td>
+  </tr>
+ </table>
 ## <li>Home Screen</li>
 <img src="images/HomeScreen.jpeg" width="250" height="450">
 
