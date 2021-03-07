@@ -12,63 +12,73 @@
 <li>Room(local database)</li>
 
 ### Screen Shots
-<li>Splash Screen</li>
+## <li>Splash Screen</li>
 <img src="images/SplashScreen.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Onboarding Screen</li>
-<img src="images/Onboarding-Student.jpeg">
-<img src="images/Onboarding-Teacher.jpeg">
+## <li>Onboarding Screen</li>
+<img src="images/Onboarding-Student.jpeg" width="250" height="450">
+<img src="images/Onboarding-Teacher.jpeg" width="250" height="450">
+<table>
+  <tr>
+    <td>Onboarding Screen - Student</td>
+     <td>Onboarding Screen - Teacher</td>
+  </tr>
+  <tr>
+    <td><img src="images/Onboarding-Student.jpeg" width="250" height="450"></td>
+    <td><img src="images/Onboarding-Teacher.jpeg" width="250" height="450"></td>
+  </tr>
+ </table>
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Login Screen</li>
-<img src="images/LoginScreen.jpeg">
+## <li>Login Screen</li>
+<img src="images/LoginScreen.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Home Screen</li>
-<img src="images/HomeScreen.jpeg">
+## <li>Home Screen</li>
+<img src="images/HomeScreen.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Private Notes</li>
-<img src="images/PrivateNotes.jpeg">
+## <li>Private Notes</li>
+<img src="images/PrivateNotes.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Create Notes</li>
-<img src="images/CreateNotes.jpeg">
+## <li>Create Notes</li>
+<img src="images/CreateNotes.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Navigation Menu</li>
-<img src="images/NavigationMenu.jpeg">
+## <li>Navigation Menu</li>
+<img src="images/NavigationMenu.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Upload Notes</li>
-<img src="images/UploadNotes.jpeg">
+## <li>Upload Notes</li>
+<img src="images/UploadNotes.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Update Profile</li>
-<img src="images/UpdateProfile.jpeg">
+## <li>Update Profile</li>
+<img src="images/UpdateProfile.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
 
-<li>Upload Videos</li>
-<img src="images/UploadVideos.jpeg">
+## <li>Upload Videos</li>
+<img src="images/UploadVideos.jpeg" width="250" height="450">
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
