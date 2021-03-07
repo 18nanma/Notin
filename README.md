@@ -18,13 +18,13 @@
     <td>Splash Screen</td>
      <td>Onboarding Screen - Student</td>
     <td>Onboarding Screen - Teacher</td>
-    <td>Login Screen</td>
+    
   </tr>
   <tr>
     <td><img src="images/SplashScreen.jpeg" width="250" height="450"></td>
     <td><img src="images/Onboarding-Student.jpeg" width="250" height="450"></td>
     <td><img src="images/Onboarding-Teacher.jpeg" width="250" height="450"></td>
-    <td><img src="images/LoginScreen.jpeg" width="250" height="450"></td>
+   
   </tr>
  </table>
 
@@ -33,15 +33,28 @@
 
 <table>
   <tr>
+    <td>Login Screen</td>
     <td>Private Notes</td>
      <td>Create Notes</td>
-    <td>Home Screen</td>
+   
+  </tr>
+  <tr>
+     <td><img src="images/LoginScreen.jpeg" width="250" height="450"></td>
+    <td><img src="images/PrivateNotes.jpeg" width="250" height="450"></td>
+    <td><img src="images/CreateNotes.jpeg" width="250" height="450"></td>
+    
+  </tr>
+ </table>
+ 
+  ------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
+<table>
+  <tr>
+     <td>Home Screen</td>
     <td>Navigation Menu</td>
   </tr>
   <tr>
-    <td><img src="images/PrivateNotes.jpeg" width="250" height="450"></td>
-    <td><img src="images/CreateNotes.jpeg" width="250" height="450"></td>
-    <td><img src="images/HomeScreen.jpeg" width="250" height="450"></td>
+  <td><img src="images/HomeScreen.jpeg" width="250" height="450"></td>
     <td><img src="images/NavigationMenu.jpeg" width="250" height="450"></td>
   </tr>
  </table>
@@ -61,4 +74,6 @@
     <td><img src="images/UploadVideos.jpeg" width="250" height="450"></td>
   </tr>
  </table>
+ 
+
 
